@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fap-crawler", "fap-crawler\fap-crawler.csproj", "{725A2CA7-2B74-4DD8-8711-315970F91C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725A2CA7-2B74-4DD8-8711-315970F91C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725A2CA7-2B74-4DD8-8711-315970F91C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725A2CA7-2B74-4DD8-8711-315970F91C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725A2CA7-2B74-4DD8-8711-315970F91C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3BCC926-0F31-4C40-B47D-9B2A0BF79F19}
+	EndGlobalSection
+EndGlobal
